@@ -7,3 +7,5 @@
 
 npm install
 ```
+
+my email is kornmjjj@gmail.com
